@@ -1,6 +1,6 @@
 # Tilt-Blinds
 
-NEW NOW HAS MQTT AND NO IR.
+NEW NOW HAS MQTT AND WEB PAGE NO IR.
 
 Problem: I am paraplegic.  I occupy a room in the basement with 2 side-byside windows for outside light.  I cannot reach the blind controls.  There is an electrical outlet nearby.
 
