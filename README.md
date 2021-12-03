@@ -1,4 +1,7 @@
 # Tilt-Blinds
+
+NEW NOW HAS MQTT AND NO IR.
+
 Problem: I am paraplegic.  I occupy a room in the basement with 2 side-byside windows for outside light.  I cannot reach the blind controls.  There is an electrical outlet nearby.
 
 Solution ESP8266 nodemcu controls a stepper motor using a IR remote control.
